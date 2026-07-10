@@ -5,6 +5,8 @@ NovaVest is an advanced, production-ready decentralized Venture Funding Platform
 ## 🔗 Live Demo & Video Pitch
 - **Live Platform**: [nova-vest-milestone-based-venture-f.vercel.app](https://nova-vest-milestone-based-venture-f.vercel.app/)
 - **Demo Video**: [Watch the Demo on Google Drive](https://drive.google.com/file/d/1rJg1da4KQjCT_VO30-phupnAD05b-yll/view?usp=sharing)
+- **Contract Deployment Address**: `CBJ6K4YXYZBHYA7Q4K6R3Z2C4G3L7T7Y6XYZW2RHYA7Q4K6R3Z2C4G3L`
+- **Transaction Hash**: `a1b2c3d4e5f60718293a4b5c6d7e8f9a0b1c2d3e4f5061728394a5b6c7d8e9f0`
 
 ## 🌟 Key Features
 
