@@ -9,7 +9,7 @@ NovaVest is an advanced, production-ready decentralized Venture Funding Platform
   - Campaign Manager: `CCA32PXSYTZHMHRHZORPKXVQEMJRHQ3APGX4XLENJYS7FJNTGIF3RZDK`
   - Governance Token: `CCX5ZLUPKCW2ODMM6FBVDRBKQKSU72EIVPR7MWAIBD3OUKX7A2DC4QKB`
   - Vault Contract: `CASOD3F4ITECXDITAUKYSDKTPKT2NIZLFXFTYEINQFCZXXB7AJATFA7O`
-- **Transaction Hash**: `a1b2c3d4e5f60718293a4b5c6d7e8f9a0b1c2d3e4f5061728394a5b6c7d8e9f0`
+- **Transaction Hash**: [`cec92c92cef810fab408b156928f22f812e7d67ceb283b531812d982c8d31f65`](https://stellar.expert/explorer/testnet/tx/cec92c92cef810fab408b156928f22f812e7d67ceb283b531812d982c8d31f65)
 
 ## 🌟 Key Features
 
