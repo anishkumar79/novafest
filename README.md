@@ -22,39 +22,15 @@ NovaVest is an advanced, production-ready decentralized Venture Funding Platform
 
 ## 📸 Platform Gallery
 
-### 1. The Explore Dashboard
-Browse high-quality, verified Web3 startups seeking funding.
-<img src="scrrenshots/explore_page.png" width="100%" alt="Explore Page" />
+### Explore Dashboard & Campaign Details
+Browse verified Web3 startups and invest XLM directly into campaigns.
+<img src="scrrenshots/product ui.png" width="100%" alt="Product UI" />
 
-### 2. Campaign Details & Investment
-Deep dive into a startup's vision, view their funding progress, and invest XLM directly.
-<img src="scrrenshots/campaign_details.png" width="100%" alt="Campaign Details" />
-
-### 3. Live Freighter Signature & Investment
-Real-time integration with the Freighter Wallet to securely sign Soroban transactions.
-<img src="scrrenshots/freighter_signature.png" width="100%" alt="Freighter Signature" />
-
-### 4. Successful Investment Notification
-Live feedback and transaction tracking on the Stellar Expert Explorer.
-<img src="scrrenshots/invested.png" width="100%" alt="Invested" />
-
-### 5. Investor Portfolio
-Track all your active investments and live wallet balances in one place.
-<img src="scrrenshots/portfolio.png" width="100%" alt="Portfolio" />
-<br />
-<img src="scrrenshots/wallet_balance.png" width="100%" alt="Wallet Balance" />
-
-### 6. Decentralized Governance
-Vote on active startup milestones to decide if they should receive their next tranche of funding.
-<img src="scrrenshots/governance_dashboard.png" width="100%" alt="Governance Dashboard" />
-<br />
-<img src="scrrenshots/vote_notification.png" width="100%" alt="Vote Notification" />
-
-### 7. Propose New Campaign
-Submit your own Web3 startup for community funding, complete with automated 3-stage milestone tracking.
-<img src="scrrenshots/propose.png" width="100%" alt="Propose Campaign" />
+### Mobile Responsive UI
+<img src="scrrenshots/mobile ui.png" width="100%" alt="Mobile Responsive UI" />
 
 ---
+
 
 ## ✅ Submission Proof
 
