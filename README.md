@@ -22,35 +22,23 @@ NovaVest is an advanced, production-ready decentralized Venture Funding Platform
 
 ## 📸 Platform Gallery
 
-### Explore Dashboard & Campaign Details
-Browse verified Web3 startups and invest XLM directly into campaigns.
+### 1. Product UI — Explore Dashboard & Campaign Details
+Browse verified Web3 startups, view funding progress, and invest XLM directly into campaigns.
 <img src="scrrenshots/product ui.png" width="100%" alt="Product UI" />
 
-### Mobile Responsive UI
+### 2. Mobile Responsive UI
+The platform is fully responsive across all device sizes, from desktop to mobile.
 <img src="scrrenshots/mobile ui.png" width="100%" alt="Mobile Responsive UI" />
 
----
+### 3. CI/CD Pipeline Running ✅
+GitHub Actions CI/CD pipeline running successfully — builds smart contracts and runs all frontend tests automatically on every push.
+<img src="scrrenshots/ci cd.png" width="100%" alt="CI/CD Pipeline Running" />
 
-
-## ✅ Submission Proof
-
-### Mobile Responsive UI
-The platform is fully responsive across all device sizes.
-<img src="scrrenshots/mobile ui.png" width="100%" alt="Mobile Responsive UI" />
-
-### Product UI
-<img src="scrrenshots/product ui.png" width="100%" alt="Product UI" />
-
-### CI/CD Pipeline Running
-GitHub Actions CI/CD pipeline running successfully with contract build and frontend tests.
-<img src="scrrenshots/ci cd.png" width="100%" alt="CI/CD Pipeline" />
-
-### Test Output (3+ Passing Tests)
-All 3 frontend tests passing with Vitest.
-<img src="scrrenshots/test output.png" width="100%" alt="Test Output" />
+### 4. Test Output — 3 Passing Tests ✅
+All 3 frontend tests passing with Vitest testing framework.
+<img src="scrrenshots/test output.png" width="100%" alt="Test Output 3+ Passing" />
 
 ---
-
 
 ## 🛠️ Tech Stack & Architecture
 
