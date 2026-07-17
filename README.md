@@ -56,6 +56,26 @@ Submit your own Web3 startup for community funding, complete with automated 3-st
 
 ---
 
+## ✅ Submission Proof
+
+### Mobile Responsive UI
+The platform is fully responsive across all device sizes.
+<img src="scrrenshots/mobile ui.png" width="100%" alt="Mobile Responsive UI" />
+
+### Product UI
+<img src="scrrenshots/product ui.png" width="100%" alt="Product UI" />
+
+### CI/CD Pipeline Running
+GitHub Actions CI/CD pipeline running successfully with contract build and frontend tests.
+<img src="scrrenshots/ci cd.png" width="100%" alt="CI/CD Pipeline" />
+
+### Test Output (3+ Passing Tests)
+All 3 frontend tests passing with Vitest.
+<img src="scrrenshots/test output.png" width="100%" alt="Test Output" />
+
+---
+
+
 ## 🛠️ Tech Stack & Architecture
 
 - **Frontend**: React, Vite, TypeScript, Vanilla CSS (Glassmorphism UI)
