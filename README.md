@@ -32,11 +32,11 @@ The platform is fully responsive across all device sizes, from desktop to mobile
 
 ### 3. CI/CD Pipeline Running ✅
 GitHub Actions CI/CD pipeline running successfully — builds smart contracts and runs all frontend tests automatically on every push.
-<img src="scrrenshots/ci cd.png" width="100%" alt="CI/CD Pipeline Running" />
+<img src="scrrenshots/ci_cd_v2.png" width="100%" alt="CI/CD Pipeline Running" />
 
 ### 4. Test Output — 3 Passing Tests ✅
 All 3 frontend tests passing with Vitest testing framework.
-<img src="scrrenshots/test output.png" width="100%" alt="Test Output 3+ Passing" />
+<img src="scrrenshots/test_output_v2.png" width="100%" alt="Test Output 3+ Passing" />
 
 ---
 
