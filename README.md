@@ -3,7 +3,7 @@
 NovaVest is an advanced, production-ready decentralized Venture Funding Platform built on Stellar (Soroban). It solves the web3 "rug pull" problem by locking startup funds in a Smart Contract Vault and releasing them only when investors vote to approve predefined milestones.
 
 ## 🔗 Live Demo & Video Pitch
-- **Live Platform**: [nova-vest-decentralized-milestone-b.vercel.app](https://nova-vest-decentralized-milestone-b.vercel.app/)
+- **Live Platform**: [novafest.vercel.app](https://novafest.vercel.app/)
 - **Demo Video**: [Watch the Demo on Google Drive](https://drive.google.com/file/d/1rJg1da4KQjCT_VO30-phupnAD05b-yll/view?usp=sharing)
 - **Deployed Contracts**:
   - Campaign Manager: `CCA32PXSYTZHMHRHZORPKXVQEMJRHQ3APGX4XLENJYS7FJNTGIF3RZDK`
