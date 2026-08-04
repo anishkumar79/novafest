@@ -90,6 +90,6 @@ jobs:
           
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md frontend/.env
+          git add -f README.md frontend/.env
           git commit -m "chore: Update contract IDs in README and .env [skip ci]" || echo "No changes"
           git push
