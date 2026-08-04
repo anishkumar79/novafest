@@ -78,6 +78,16 @@ jobs:
           TOKEN_ID=$(stellar contract id asset --asset native --network testnet)
           echo "Native Token ID is: $TOKEN_ID"
 
+          echo "Initializing Vault Contract..."
+          stellar contract invoke --id $VAULT_ID --source deployer --network testnet -- initialize --admin $CAMPAIGN_MANAGER_ID --native_token $TOKEN_ID || echo "Vault already initialized"
+
+          echo "Initializing Governance Token..."
+          stellar contract invoke --id $GOV_TOKEN_ID --source deployer --network testnet -- initialize --admin $CAMPAIGN_MANAGER_ID || echo "Gov token already initialized"
+
+          echo "Initializing Campaign Manager..."
+          DEPLOYER_ADDRESS=$(stellar keys address deployer)
+          stellar contract invoke --id $CAMPAIGN_MANAGER_ID --source deployer --network testnet -- initialize --admin $DEPLOYER_ADDRESS --vault_contract $VAULT_ID --gov_token_contract $GOV_TOKEN_ID --native_token $TOKEN_ID || echo "Campaign Manager already initialized"
+
           echo "VITE_CAMPAIGN_MANAGER_ID=$CAMPAIGN_MANAGER_ID" > frontend/.env
 
           echo "=================================================="
