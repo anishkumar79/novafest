@@ -9,7 +9,7 @@ NovaVest is an advanced, production-ready decentralized Venture Funding Platform
   - Campaign Manager: `CATUZHU52FJIQQ6ICYSTIOMGUNSULKBGLZEMXQ7ZLF7K6V4PMOBIZJTQ`
   - Governance Token: `CCO4MRACX7CT3SWQ4AQP4KU3NWVIRVYMGHCXJMBDPAOEF43DPBOG7RT3`
   - Vault Contract: `CAHTY45D6KACFR4SWHTGHQ7LKIVC6DHXQCHCTXQPNUVXVZKIR3AC7SW7`
-- **Transaction Hash**: [`cec92c92cef810fab408b156928f22f812e7d67ceb283b531812d982c8d31f65`](https://stellar.expert/explorer/testnet/tx/cec92c92cef810fab408b156928f22f812e7d67ceb283b531812d982c8d31f65)
+- **Transaction Hash**: [`ac9ebecb6d62ed91092779297197627a7d7891b609e8bcf75af56253495f2513`](https://stellar.expert/explorer/testnet/tx/ac9ebecb6d62ed91092779297197627a7d7891b609e8bcf75af56253495f2513)
 
 ## 🌟 Key Features
 
@@ -32,11 +32,11 @@ The platform is fully responsive across all device sizes, from desktop to mobile
 
 ### 3. CI/CD Pipeline Running ✅
 GitHub Actions CI/CD pipeline running successfully — builds smart contracts and runs all frontend tests automatically on every push.
-<img src="scrrenshots/ci_cd_v2.png" width="100%" alt="CI/CD Pipeline Running" />
+<img src="scrrenshots/cic cd.png" width="100%" alt="CI/CD Pipeline Running" />
 
 ### 4. Test Output — 3 Passing Tests ✅
 All 3 frontend tests passing with Vitest testing framework.
-<img src="scrrenshots/test_output_v2.png" width="100%" alt="Test Output 3+ Passing" />
+<img src="scrrenshots/test output.png" width="100%" alt="Test Output 3+ Passing" />
 
 ---
 
