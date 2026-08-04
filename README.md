@@ -6,9 +6,9 @@ NovaVest is an advanced, production-ready decentralized Venture Funding Platform
 - **Live Platform**: [novafest.vercel.app](https://novafest.vercel.app/)
 - **Demo Video**: [Watch the Demo on Google Drive](https://drive.google.com/file/d/1rJg1da4KQjCT_VO30-phupnAD05b-yll/view?usp=sharing)
 - **Deployed Contracts**:
-  - Campaign Manager: `CCA32PXSYTZHMHRHZORPKXVQEMJRHQ3APGX4XLENJYS7FJNTGIF3RZDK`
-  - Governance Token: `CCX5ZLUPKCW2ODMM6FBVDRBKQKSU72EIVPR7MWAIBD3OUKX7A2DC4QKB`
-  - Vault Contract: `CASOD3F4ITECXDITAUKYSDKTPKT2NIZLFXFTYEINQFCZXXB7AJATFA7O`
+  - Campaign Manager: `CCVJYPFJCBX4JB6GMJDM7TQBSH24FPEAACOC6DXMYBNSP4KLOJ4IAEC2`
+  - Governance Token: `CDOB5TXAPFGDYSLPIBMSMMIL5EHMBXRIHW2M7XE44LSSSMCFKKDHWNR7`
+  - Vault Contract: `CAWIKFCPTDTSDHHO52V2X4TJ3NEVOWTAKFFX2SFMEAS2RLUHOOLUEGVK`
 - **Transaction Hash**: [`cec92c92cef810fab408b156928f22f812e7d67ceb283b531812d982c8d31f65`](https://stellar.expert/explorer/testnet/tx/cec92c92cef810fab408b156928f22f812e7d67ceb283b531812d982c8d31f65)
 
 ## 🌟 Key Features
