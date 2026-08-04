@@ -12,7 +12,7 @@ pub struct Vault;
 
 #[contractimpl]
 impl Vault {
-    pub fn initialize(env: Env, admin: Address, native_token: Address) {
+    pub fn init_vault(env: Env, admin: Address, native_token: Address) {
         if env.storage().instance().has(&DataKey::Admin) {
             panic!("already initialized");
         }

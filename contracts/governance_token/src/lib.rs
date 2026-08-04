@@ -13,7 +13,7 @@ pub struct GovernanceToken;
 
 #[contractimpl]
 impl GovernanceToken {
-    pub fn initialize(env: Env, admin: Address) {
+    pub fn init_gov(env: Env, admin: Address) {
         if env.storage().instance().has(&DataKey::Admin) {
             panic!("already initialized");
         }

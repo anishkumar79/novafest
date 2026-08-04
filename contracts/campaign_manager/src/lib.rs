@@ -39,7 +39,7 @@ pub struct CampaignManager;
 
 #[contractimpl]
 impl CampaignManager {
-    pub fn initialize(
+    pub fn init_manager(
         env: Env,
         admin: Address,
         vault_contract: Address,
